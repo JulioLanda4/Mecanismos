@@ -4,3 +4,6 @@ Thumbs.db
 *.tmp
 *.bak
 *_SWBackup_*/
+*.avi
+*.mp4
+*.mov
